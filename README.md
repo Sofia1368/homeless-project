@@ -6,11 +6,12 @@
     <title>Exploring Homelessness</title>
     <style>
         body {
-            font-family: 'Arial', sans-serif;
+            font-family: 'Times New Roman', serif;
             margin: 0;
             padding: 0;
             background: linear-gradient(to bottom, #ffecd2, #fcb69f);
             color: #333;
+            line-height: 1.6;
         }
         header {
             background: #ff6f61;
@@ -86,27 +87,21 @@
 </nav>
 
 <section id="visual">
-    <h2>Visual Media: <em>Lead Me Home</em></h2>
+    <h2>Lead Me Home</h2>
     <img src="https://via.placeholder.com/800x400?text=Lead+Me+Home" alt="Lead Me Home Documentary">
-    <p><strong>Description:</strong> <em>Lead Me Home</em> is a short documentary focusing on individuals experiencing homelessness in major U.S. cities. It combines striking visuals, personal interviews, and haunting silence to highlight the emotional and systemic aspects of homelessness.</p>
-    <p><strong>Response:</strong> The film made me see homelessness as deeply personal and systemic. Stories of fear and isolation, juxtaposed with stark visuals, emphasized inequalities. It inspired me to bring the human aspect of homelessness to my project.</p>
-    <p><a href="https://www.netflix.com/title/81405666" target="_blank">Watch Lead Me Home on Netflix</a></p>
+    <p><em>Lead Me Home</em> is a short documentary that focuses on the lives of people experiencing homelessness in cities like Los Angeles, San Francisco, and Seattle. It combines visually stunning footage with personal interviews to tell the stories of those who are often overlooked by society. The documentary doesn’t rely on narration; instead, it allows the voices and experiences of the homeless to shine through. One of the most impactful aspects of the film is the way it contrasts the opulence of big cities with the harsh realities of living without a home, showing the audience the stark inequalities that exist. Watching this film was an emotional experience for me. I felt a deep sense of empathy for the individuals sharing their stories and also frustration about the lack of support systems for those in need. The visuals of tent-lined streets and the intimate interviews made the issue feel so much more real. I couldn’t help but wonder how our society has let things get to this point and what we can do to make things better. This documentary fits perfectly into my project because it offers a human perspective on homelessness. It highlights not just the struggles but also the resilience of people facing these challenges. After watching it, I felt inspired to bring more awareness to the personal side of homelessness in my work, as I believe it’s important to remind people that this isn’t just a problem; it’s about real lives and stories.</p>
 </section>
 
 <section id="nonfiction">
-    <h2>Non-Fiction: <em>On the Way Home Podcast</em> (Prevention Episode)</h2>
+    <h2>On the Way Home Podcast</h2>
     <img src="https://via.placeholder.com/800x400?text=On+The+Way+Home+Podcast" alt="On the Way Home Podcast">
-    <p><strong>Description:</strong> The <em>On the Way Home</em> podcast is a series that explores housing and homelessness in-depth, often focusing on systemic solutions. The episode about prevention is particularly powerful because it highlights strategies to stop homelessness before it happens.</p>
-    <p><strong>Response:</strong> The episode changed how I think about homelessness, emphasizing prevention as a sustainable solution. Examples of early interventions, like rental assistance, inspired me to explore prevention strategies in my project.</p>
-    <p><a href="https://onthewayhome.buzzsprout.com/" target="_blank">Listen to the Podcast Episode</a></p>
+    <p>The <em>On the Way Home</em> podcast explores housing and homelessness issues, and the episode about prevention really stood out to me. It focuses on strategies to stop homelessness before it starts, such as providing financial assistance to families at risk of eviction and improving access to affordable housing. What I appreciated about this episode was how it explained the systemic causes of homelessness in a way that was easy to understand. The guest speakers also shared real-life examples of programs that have successfully reduced homelessness through prevention. Listening to this episode made me think about how much more effective it is to invest in prevention than to address homelessness once it has already occurred. For example, the podcast highlighted how a small amount of financial assistance at the right time can prevent a family from losing their home, which is not only more humane but also more cost-effective in the long run. This changed my perspective because I had always thought of shelters and rehousing as the main solutions to homelessness. Now I see that prevention is equally, if not more, important. This episode fits into my project by offering a proactive perspective on homelessness. It challenges the idea that homelessness is inevitable and shows that, with the right strategies, it can be prevented. I was inspired to include prevention-focused solutions in my project to show that there is hope and that change is possible if we address the root causes of this issue.</p>
 </section>
 
 <section id="fiction">
-    <h2>Fiction: <em>The Hidden Homeless</em> by Tishani Doshi</h2>
+    <h2>The Hidden Homeless</h2>
     <img src="https://via.placeholder.com/800x400?text=The+Hidden+Homeless+by+Tishani+Doshi" alt="The Hidden Homeless Poem">
-    <p><strong>Description:</strong> This poem explores the hidden realities of homelessness, focusing on individuals who live in the shadows of society. It uses vivid imagery and metaphor to convey emotional and physical struggles.</p>
-    <p><strong>Response:</strong> The poem reminded me of the emotional and invisible side of homelessness. It made me reflect on how we often overlook people in need. Its powerful metaphors inspired me to use language in my project to evoke empathy.</p>
-    <p><a href="https://www.poetryfoundation.org/poems/152490/the-hidden-homeless" target="_blank">Read The Hidden Homeless by Tishani Doshi</a></p>
+    <p>Tishani Doshi’s poem <em>The Hidden Homeless</em> offers a haunting look at the emotional and physical toll of homelessness, especially for those who are not visibly homeless but still lack a stable place to call home. The poem uses powerful imagery and metaphor to convey the struggles of people who are often overlooked. For example, phrases like “the sky opens like a wound” paint a vivid picture of vulnerability and loss. Reading this poem made me think about how society defines homelessness and how many people don’t fit the typical stereotype but are still suffering. It also made me reflect on how easy it is to ignore the struggles of others when they are not immediately visible. This poem was both moving and thought-provoking, and it inspired me to look deeper into the emotional side of homelessness for my project. It reminded me that homelessness isn’t just about not having a roof over your head; it’s also about losing your sense of identity, stability, and belonging. This poem fits into my project by providing an artistic and emotional perspective on homelessness. It contrasts with the other texts I’ve chosen, which are more focused on systemic and visual elements, and adds a layer of depth to my understanding of the issue. I hope to capture some of the same empathy and awareness in my own work that Doshi’s poem evokes so beautifully.</p>
 </section>
 
 <footer>

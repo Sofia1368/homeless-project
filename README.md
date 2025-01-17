@@ -77,7 +77,7 @@
 
 <header>
     <h1> Homelessness</h1>
-    <p>A Multi-Genre </p>
+    <p> Multi-Genre </p>
 </header>
 
 <nav>
